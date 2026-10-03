@@ -6,7 +6,7 @@ I developed a modern desktop Tic-Tac-Toe application using C# and Windows Forms.
 
 The primary purpose of writing this software was to gain hands-on experience with the C# language syntax and runtime features. Specifically, I wanted to learn how to manipulate memory layouts using custom structures and explicit struct overlays, build event-driven UI controls, handle file persistence, and structure maintainable, modular C# code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://github.com/jsamap/TicTacToe)
 
 
 # Development Environment
